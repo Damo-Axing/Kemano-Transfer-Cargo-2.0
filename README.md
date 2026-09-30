@@ -4,7 +4,13 @@
 [![Status](https://img.shields.io/badge/status-specification%20final-brightgreen)]()
 ![Status](https://img.shields.io/badge/status-IN_PROGRESS-yellow)
 
+> [!NOTE]
+> Это не окончательная версия Данного протокола.
+>
 
+> [!NOTE]
+> Это страница нового протокола со старой версией вы можете ознакомится по данной ссылке [ТЫК](https://github.com/Damo-Axing/Kemano-Transfer-Cargo-1.9)
+> 
 ---
 
 ## Оглавление
